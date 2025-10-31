@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejemplo_guardado/1.0.0": {
+        "runtime": {
+          "Ejemplo_guardado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo_guardado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
