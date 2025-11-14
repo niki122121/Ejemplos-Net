@@ -5,8 +5,6 @@ Licencia: The MIT License
 Ejemplos de **networking** con **cliente en Unity** y **back-end en .NET** (más variantes equivalentes en **Node.js** y **Python**).  
 Material de apoyo para la asignatura *Juegos para Web y Redes Sociales*.
 
-> **Objetivo de este README:** cumplir la consigna de que *“el software incluye instrucciones sobre cómo usarse (o estas están en material de acceso abierto utilizado en la asignatura)”* y dejar documentado cómo ejecutar **cada ejemplo**, cómo conectarlo desde **Unity**, y qué **problemas comunes** pueden surgir.
-
 ---
 
 ## Índice
