@@ -276,15 +276,6 @@ python server.py
 - **WebSocket no conecta**
   - Verifica la **ruta WS** (`/ws` u otra), que el servidor hace *Upgrade: websocket* y que no estás intentando `https://` en vez de `ws://` (o `wss://` si corresponde).
 
----
-
-## Checklist de evaluación / Rúbrica
-
-- ✅ **Instrucciones de uso incluidas**: cómo arrancar servidores, cómo configurar y ejecutar el cliente Unity, y cómo probar endpoints.  
-- ✅ **Referencias a material abierto**: este README y el repositorio sirven como material de consulta para la asignatura.  
-- ✅ **Contexto técnico**: explicación breve de P2P vs cliente-servidor, firewall/NAT, servidor autoritativo y cuándo usar HTTP vs WebSocket.  
-- ✅ **Limitaciones y buenas prácticas**: prototipo no autoritativo y sin persistencia por defecto; recomendación de pasar a base de datos en proyectos mayores.  
-- ✅ **Solución de problemas**: listado de errores típicos con acciones concretas.
 
 ---
 
